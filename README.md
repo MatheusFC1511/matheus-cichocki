@@ -3,7 +3,7 @@
 ### Education
 Physics, University of São Paulo
 
-###Courses
+### Courses
 - General Business Program, BTC
 
 ### Projects
