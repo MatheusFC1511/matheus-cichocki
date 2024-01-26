@@ -3,6 +3,9 @@
 ### Education
 Physics, University of São Paulo
 
+###Courses
+- General Business Program, BTC
+
 ### Projects
  - Scientific Initiation: "Study of the analicity of the S-Matrix applied to the X(3872) meson" supervised by Renato Higa. (01/01/2023 - 31/12/2023)
 
